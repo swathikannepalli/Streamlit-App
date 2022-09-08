@@ -34,7 +34,6 @@ pipwin==0.5.2
 plotly==5.10.0
 protobuf==3.20.1
 pyarrow==9.0.0
-PyAudio @ file:///C:/Users/swath/pipwin/PyAudio-0.2.11-cp310-cp310-win_amd64.whl
 pydeck==0.8.0b1
 Pygments==2.13.0
 pyjsparser==2.7.1
