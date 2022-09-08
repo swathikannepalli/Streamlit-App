@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 st.header("house rent predication")
-df = pd.read_csv(r'C:\\Users\\swath\OneDrive\Desktop\House_Rent_Dataset.csv')
+df = pd.read_csv('House_Rent_Dataset.csv')
 st.write(df)
 genre = st.radio(
      "What's your favorite movie genre",
